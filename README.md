@@ -1,6 +1,6 @@
 # Mi Portafolio
 
-Este proyecto es un portafolio personal desarrollado en HTML y CSS. A continuación, se describen las secciones principales del proyecto:
+Este proyecto es un portafolio personal desarrollado en HTML y CSS, https://eliecer66.github.io/portfolio.github.io/. A continuación, se describen las secciones principales del proyecto:
 
 ## Estructura del Proyecto
 
